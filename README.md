@@ -175,14 +175,27 @@ This project can help subscription-based businesses:
 
 ## 📸 Project Screenshots
 
-### Streamlit Dashboard
+### 🏠 Main Dashboard
 
-![Streamlit Dashboard](Add-your-screenshot-path-here)
+<p align="center">
+  <img src="assets/dashboard.png" width="100%">
+</p>
 
-### Prediction Result
+---
 
-![Prediction Result](Add-your-screenshot-path-here)
+### 🔴 High Churn Prediction
 
+<p align="center">
+  <img src="assets/prediction_high.png" width="100%">
+</p>
+
+---
+
+### 🟢 Low Churn Prediction
+
+<p align="center">
+  <img src="assets/prediction_low.png" width="100%">
+</p>
 ---
 
 ## ⚡ Installation & Usage
