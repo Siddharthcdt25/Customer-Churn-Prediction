@@ -7,6 +7,18 @@
   <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-purple" />
 </p>
 
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+<p align="center">
+
+<a href="https://customerchurnprediction-netflix.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Streamlit-red?style=for-the-badge"/>
+
+</a>
+
+</p>
+
 An **end-to-end Machine Learning project** that predicts whether a Netflix customer is likely to **churn** based on customer behavior, subscription details, and engagement patterns. The project demonstrates the complete ML lifecycle, from **EDA and feature engineering** to **model deployment using Streamlit**.
 
 ---
