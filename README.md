@@ -209,6 +209,7 @@ This project can help subscription-based businesses:
   <img src="assets/prediction_low.png" width="100%">
 </p>
 ---
+
 ### 💡 Business Recommendation
 
 The application doesn't stop at predicting churn. Based on the customer's predicted risk level, it also generates actionable business recommendations to help improve customer retention.
